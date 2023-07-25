@@ -1,23 +1,37 @@
-# 💫 About Me:
-🔭 Sou estudante de Ciência da Computação<br>🌱 Atualmente estudo Front-end (HTML, CSS e JavaScript)<br>🤝 Estou a procura de Estágio 
+# Olá Mundo, me chamo Felipe! 👋
+
+<br>
+
+## 💫 Sobre mim:
+🔭 Sou estudante de Ciência da Computação.<br>
+🌱 Atualmente estudo PHYTON, porem possuo conhecimento em (HTML, CSS e JavaScript).<br>
+🤝 Estou a procura de Estágio ou uma oportunidade na área.
+
+<br>
+
+## 🌐 Social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/felipe-pereira-35a55ab7/) 
+
+## 💻 Linguagens de Marcação e Estilo:
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-pereira-35a55ab7/) 
+## 💻 Linguagens de Programação:
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-# 💻 Tech Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-
+<br>
           
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fsilvapereira94&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fsilvapereira94&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fsilvapereira94&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Status:
+![](https://github-readme-streak-stats.herokuapp.com/?user=fsilvapereira94&theme=highcontrast&hide_border=false)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fsilvapereira94&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=fsilvapereira94&icon=7&color=12)](https://visitcount.itsvg.in)
+## 📊 Uso de Linguagens:
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fsilvapereira94&bg_color=000&border_color=fff&title_color=fff&text_color=FFF)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
