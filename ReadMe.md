@@ -10,7 +10,7 @@
 <br>
 
 ## 🌐 Social:
-<a href="https://www.linkedin.com/in/felipe-pereira-35a55ab7/">
+<a href="https://www.linkedin.com/in/felipe-pereira-35a55ab7/" target="_bank">
     <img src="https://devicons.dev.br/icons?icon=LinkedIn&theme=light">
 <a />
 
