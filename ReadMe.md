@@ -10,16 +10,14 @@
 <br>
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/felipe-pereira-35a55ab7/) 
-
-## 💻 Linguagens de Marcação e Estilo:
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+<a href="https://www.linkedin.com/in/felipe-pereira-35a55ab7/">
+    <img src="https://devicons.dev.br/icons?icon=LinkedIn&theme=light">
+<a />
 
 
-## 💻 Linguagens de Programação:
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+## 💻 Skills:
+[![Skills](https://devicons.dev.br/icons?icon=HTML,CSS,Bootstrap,JavaScript,Git,Python,MySQL&theme=light)](https://devicons.dev.br/)
 
 <br>
           
